@@ -6,11 +6,11 @@
 
 <table>
 <tr> 
-<td>Package</td><td>gentry-boiler</td>
+<td>Package</td><td>gentry-fission</td>
 </tr>
 <tr>
 <td>Description</td>
-<td>boilerplate for a generator</td>
+<td>fission.js gentry generator</td>
 </tr>
 <tr>
 <td>Node Version</td>
